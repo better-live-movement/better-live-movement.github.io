@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: better-live-movement.github.io
+Token: 6b6bd9383d3ee6f8ed8c99b776f39bb992a6e935844b67a15858358a79277cd5
